@@ -1,0 +1,8 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.7",
+        "spipu/html2pdf": "^5.2",
+        "fpdf/fpdf": "^1.86",
+        "setasign/fpdf": "^1.8"
+    }
+}
