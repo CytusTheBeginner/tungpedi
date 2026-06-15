@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,700;1,700&display=swap");
+
+body {
+  background-color: #f0f0f0;
+}
+
+/* navbar */
+.textnav {
+  margin-left: -1rem;
+  padding-top: 5rem;
+  font-weight: 600;
+}
+
+.navtext1 {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}
+
+.navtext1:hover {
+  color: rgba(40, 167, 69, 1);
+}
+
+.iconnav {
+  border: none;
+  color: black;
+}
+
+.nav-link {
+  color: black;
+  font-weight: 500;
+}
+
+.iconnav:hover {
+  color: rgba(40, 167, 69, 1);
+}
+
+.nav-link:hover {
+  color: rgba(40, 167, 69, 1);
+}
+
+.off-nav {
+  margin-left: -13rem;
+}
